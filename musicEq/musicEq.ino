@@ -29,8 +29,8 @@ int lines[320]={0};
 Audio audio;
 WiFiMulti wifiMulti;
 
-String ssid = "IGK20";
-String password = "18072019";
+String ssid = "xxxxxxx";
+String password = "xxxxxxx;
 
 LGFX_Sprite sprite;
 
